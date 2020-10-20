@@ -47,7 +47,7 @@ $(document).ready(function () {
         // navWrapper.classList.add("nav-sticky");
         navWrapper.style.position = "fixed";
         navWrapper.classList.add("fixed-navbar");
-        navWrapper.style.background = "#126f9c";
+        navWrapper.style.background = "linear-gradient(45deg, #1d56a2, #008fd5)";
         navWrapper.style.transition = "all .9s linear";
         firstNav.style.display = "none";
         logoContainer.style.height = "70px";
